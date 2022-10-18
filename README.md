@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Mburu-Elvis
+- 👋 Hi, I’m Elvis Mburu
 - 👀 I’m a software developer - Java, Python and C
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m also creating projects in datascience using Python.
@@ -20,7 +20,8 @@ I am skilled in:
   I am a product of communities thus very passionate in contributing in them. 
 # Hobbies
   I love writing code while developing solutions. \
-  Besides that, I love enganging with my peers in matters tech
+  Besides that, I love enganging with my peers in matters tech \
+  I also like creating simple websites to enhance my skills
 <!---
 Mburu-Elvis/Mburu-Elvis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
