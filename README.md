@@ -5,7 +5,7 @@
 - 📫 How to reach me twitter @ElvisMburu4
 
 # Skills
-I am skilled in:
+I am skilled in: \
   C \
   Java \
   Python \
