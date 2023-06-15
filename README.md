@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Elvis Mburu
-- 👀 I’m a software developer - Java, Python and C
+- 👀 I’m a software developer - Python and C
 - 🌱 I’m currently learning Machine Learning
 - 💞️ I’m also creating projects in datascience using Python.
 - 📫 How to reach me twitter @ElvisMburu4
