@@ -7,7 +7,6 @@
 # Skills
 I am skilled in: \
   C \
-  Java \
   Python \
   HTML \
   CSS \
