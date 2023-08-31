@@ -23,6 +23,7 @@ I am skilled in: \
   I also like creating simple websites to enhance my skills
 
   [![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mburu-Elvis)](https://github.com/Mburu-Elvis/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mburu-Elvis&layout=donut-vertical)](https://github.com/Mburu-Elvis/github-readme-stats)
 <!---
 Mburu-Elvis/Mburu-Elvis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
