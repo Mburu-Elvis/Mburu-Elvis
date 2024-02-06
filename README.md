@@ -22,7 +22,8 @@ I am skilled in: \
   Besides that, I love enganging with my peers in matters tech \
   I also like creating simple websites to enhance my skills
 
-  [![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mburu-Elvis)](https://github.com/Mburu-Elvis/github-readme-stats)
+  [![Elvis's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mburu-Elvis)](https://github.com/Mburu-Elvis/github-readme-stats) 
+  
   http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={Mburu-Elvis}&theme={github_dark}&exclude={exclude}
 <!---
 Mburu-Elvis/Mburu-Elvis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
