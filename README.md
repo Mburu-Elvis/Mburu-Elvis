@@ -10,7 +10,11 @@ I am skilled in: \
   Python \
   HTML \
   CSS \
-  JavaScript 
+  JavaScript
+
+# Projects
+- ### Nairobi Price Predition
+  ![link here](http://rentpricepredictor.pythonanywhere.com/)
   
 # Interests
   I am interested in datascience projects, machine learning and Backend development. \
