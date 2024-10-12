@@ -11,9 +11,9 @@ I'm an enthusiastic Backend Developer and Data Nerd with a strong foundation in 
 
     Languages: Java, Python, C
     Backend Frameworks: Spring Boot, Flask
-    API Development: REST, GraphQL
+    API Development: REST
     Databases: PostgreSQL, MySQL
-    Cloud Services: Render, AWS, Azure
+    Cloud Services: Render
     Containerization: Docker
     Version Control: Git
     Development Practices: Agile, Test-Driven Development (TDD), Continuous Integration/Continuous Delivery (CI/CD)
@@ -27,14 +27,13 @@ I'm an enthusiastic Backend Developer and Data Nerd with a strong foundation in 
 💡 Featured Projects:
 
     Nairobi Rent Price Prediction Platform: Developed a predictive platform using Python/Flask, allowing users to estimate rental prices across Nairobi, hosted on PythonAnywhere.
-    Digital Onboarding Portal: Worked on enterprise applications involving Payment Gateways and Onboarding Solutions, leveraging Java and Spring Boot to create scalable and secure services.
-    Therapy Chatbot: A chatbot designed to classify user issues for therapy sessions, integrating advanced NLP techniques and classifiers.
+    Health Chatbot: A chatbot designed to offer health guidance to patients.
 
 💼 Professional Experience: 
 Software Engineering Intern - Meliora Technologies Limited
 
 During my internships, I've collaborated with teams to brainstorm ideas, conduct code reviews, and deliver high-quality backend solutions. My passion lies in understanding customer pain points and developing solutions that align with real-world problems.
-📫 How to reach me:
+📫 How to reach me:  
 Email: mburuelvis21@gmail.com
 LinkedIn: elvis-mburu
 Twitter: @ElvisMburu4
