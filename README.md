@@ -32,7 +32,8 @@ I'm an enthusiastic Backend Developer and Data Nerd with a strong foundation in 
 💼 Professional Experience: 
 Software Engineering Intern - Meliora Technologies Limited
 
-During my internships, I've collaborated with teams to brainstorm ideas, conduct code reviews, and deliver high-quality backend solutions. My passion lies in understanding customer pain points and developing solutions that align with real-world problems.
+During my internships, I've collaborated with teams to brainstorm ideas, conduct code reviews, and deliver high-quality backend solutions. My passion lies in understanding customer pain points and developing solutions that align with real-world problems.  
+
 📫 How to reach me:  
 Email: mburuelvis21@gmail.com
 LinkedIn: elvis-mburu
