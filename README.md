@@ -1,6 +1,7 @@
 Hi there 👋, I'm Elvis Mburu!
 
-I'm an enthusiastic Backend Developer and Data Nerd with a strong foundation in building scalable systems, REST APIs, and working with data-driven applications. I enjoy diving deep into system design, optimizing backend performance, and solving complex problems that make people's lives easier.
+I'm an enthusiastic Backend Developer and Data Nerd with a strong foundation in building scalable systems, REST APIs, and working with data-driven applications. I enjoy diving deep into system design, optimizing backend performance, and solving complex problems that make people's lives easier.  
+
 🔭 What I’m working on:
 
     Wallet System Project: As part of the Natujenge 2024 cohort challenge, I'm building a wallet system that allows users to perform financial transactions like deposits, payments, and transfers.
